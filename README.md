@@ -71,9 +71,9 @@ The data in this repository was generated using a simulation system that mimics 
 
 This dataset is part of the [Radar Simulation Project](https://github.com/MYAzrak/RadarSimulation) developed by:
 
-- [arcarum](https://github.com/arcarum)
-- [Yousif Alhosani](https://github.com/yal77)
-- [Mohammad Yaser Azrak](https://github.com/MYAzrak)
+- [arcarum](https://github.com/arcarum).
+- [Yousif Alhosani](https://github.com/yal77).
+- [Mohammad Yaser Azrak](https://github.com/MYAzrak).
 - [Ibrahim Baig](https://github.com/darkwing-30).
 
 For more details about the main project, refer to the [Radar Simulation Repository](https://github.com/MYAzrak/RadarSimulation).
